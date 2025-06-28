@@ -1,0 +1,132 @@
+[
+  {
+    "name": "Aryabhata",
+    "date": "1975-04-19",
+    "description": "Aryabhata, India’s first satellite, launched by a Soviet Kosmos-3M rocket from Kapustin Yar, Russia, marked ISRO’s entry into space exploration. Weighing 360 kg, it carried X-ray astronomy, solar physics, and aeronomy instruments. Despite a power failure ending operations after four days, it successfully validated ISRO’s satellite design capabilities. Orbiting at 619 km, the mission laid the foundation for India’s space program, enabling future advancements in communication and remote sensing technologies."
+  },
+  {
+    "name": "Bhaskara-I",
+    "date": "1979-06-07",
+    "description": "Bhaskara-I, launched by a Soviet Kosmos-3M rocket from Kapustin Yar, was India’s first experimental earth observation satellite. Weighing 444 kg and orbiting at 541 km, it carried a TV camera and microwave radiometers for land, ocean, and atmospheric studies. Despite limited data due to a telemetry issue, it successfully tested remote sensing technologies, paving the way for advanced earth observation missions like Cartosat, supporting applications in agriculture and disaster management."
+  },
+  {
+    "name": "Rohini (SLV-3)",
+    "date": "1980-07-18",
+    "description": "Rohini, launched by India’s first indigenous SLV-3 rocket from Sriharikota, was a landmark success, making India the sixth nation to orbit a satellite. The 35 kg satellite, orbiting at 305 km, carried a TV camera for earth imaging. Overcoming the SLV-3’s 1979 failure due to a control system error, it validated ISRO’s launch technology, enabling advancements in communication, remote sensing, and disaster monitoring, establishing India’s global space presence."
+  },
+  {
+    "name": "APPLE",
+    "date": "1981-06-19",
+    "description": "APPLE (Ariane Passenger Payload Experiment), launched by Ariane-1 from Kourou, French Guiana, was India’s first geostationary communication satellite. Weighing 670 kg and positioned at 102°E, it carried C-band transponders for TV and radio experiments. Successfully operating for two years, it tested indigenous communication technologies, supporting rural connectivity and broadcasting. The mission’s success laid the groundwork for the INSAT series, enhancing India’s telecom infrastructure."
+  },
+  {
+    "name": "INSAT-1A",
+    "date": "1982-04-10",
+    "description": "INSAT-1A, launched by a US Delta rocket from Cape Canaveral, was India’s first operational multipurpose satellite for communication and meteorology. Positioned in geostationary orbit at 74°E, it carried VHRR and C-band transponders. It failed after four months due to a solar array deployment issue, limiting its weather and telecom services. Lessons learned improved INSAT-1B’s design, ensuring reliable communication and weather forecasting for India’s growing needs."
+  },
+  {
+    "name": "INSAT-1B",
+    "date": "1983-08-30",
+    "description": "INSAT-1B, launched by NASA’s Space Shuttle Challenger from Kennedy Space Center, successfully provided communication, broadcasting, and meteorological services. Positioned at 74°E in geostationary orbit, it carried a VHRR and 12 C-band transponders, enabling TV broadcasting, telecom, and weather forecasting. Operating for over 7 years, it revolutionized rural connectivity and disaster warning systems, solidifying the INSAT series as a cornerstone of India’s communication infrastructure."
+  },
+  {
+    "name": "INSAT-2D",
+    "date": "1997-06-04",
+    "description": "INSAT-2D, launched by Ariane-4 from Kourou, French Guiana, aimed to enhance telecom and broadcasting in geostationary orbit at 74°E. With 16 C-band and 3 Ku-band transponders, it supported TV, radio, and VSAT networks. It failed in October 1997 due to a power bus anomaly after four months, disrupting services. This failure prompted ISRO to enhance satellite redundancy and power systems, improving subsequent INSAT missions for reliable communication."
+  },
+  {
+    "name": "GSLV-D1",
+    "date": "2001-04-18",
+    "description": "GSLV-D1, the first developmental flight of the Geosynchronous Satellite Launch Vehicle, launched from Sriharikota, attempted to place the 1,540 kg GSAT-1 into geostationary transfer orbit. The mission failed due to a shortfall in the cryogenic stage’s thrust, resulting in an incorrect orbit. GSAT-1’s onboard propulsion could not compensate, rendering it non-operational. This failure led to improvements in GSLV’s cryogenic engine, enabling successes like GSLV-MkIII-D1, critical for heavy satellite launches."
+  },
+  {
+    "name": "Kalpana-1",
+    "date": "2002-09-12",
+    "description": "Kalpana-1 (METSAT), launched by PSLV-C4 from Sriharikota, was ISRO’s first dedicated meteorological satellite, renamed after astronaut Kalpana Chawla. In geostationary orbit at 74°E, it carried a VHRR for cloud imaging and a Data Relay Transponder for weather data. Operating successfully for over 10 years, it enhanced cyclone tracking, monsoon predictions, and disaster management, benefiting agriculture and maritime sectors, and strengthening India’s climate resilience."
+  },
+  {
+    "name": "INSAT-3A",
+    "date": "2003-04-10",
+    "description": "INSAT-3A, launched by Ariane-5 from Kourou, French Guiana, is a multipurpose satellite in geostationary orbit at 93.5°E, successfully providing communication, broadcasting, and meteorological services. With 12 C-band, 6 Ku-band transponders, and a VHRR, it supports telecom, TV, and weather forecasting. Operating for over 12 years, it enhanced rural connectivity, disaster warnings, and climate monitoring, reinforcing India’s communication and meteorological infrastructure for national development."
+  },
+  {
+    "name": "CARTOSAT-1",
+    "date": "2005-05-05",
+    "description": "CARTOSAT-1, launched by PSLV-C6 from Sriharikota, was India’s first high-resolution earth observation satellite, successfully operating in a 618 km sun-synchronous orbit. Its dual panchromatic cameras provided 2.5-meter resolution stereo imagery, supporting cartography, urban planning, and infrastructure development. With a 5-year lifespan, it aided land use mapping and disaster management, establishing ISRO’s leadership in geospatial data and enabling applications like smart city planning."
+  },
+  {
+    "name": "Chandrayaan-1",
+    "date": "2008-10-22",
+    "description": "Chandrayaan-1, India’s first lunar mission, launched by PSLV-C11 from Sriharikota, successfully orbited the Moon at 100 km, confirming water molecules in lunar soil. With 11 instruments, including the Moon Impact Probe (MIP) and Terrain Mapping Camera (TMC), it provided 3D lunar maps. Ending early on August 28, 2009, due to power supply overheating, it achieved 95% of its objectives, contributing to NASA’s LCROSS and boosting India’s lunar exploration."
+  },
+  {
+    "name": "RISAT-1",
+    "date": "2012-04-26",
+    "description": "RISAT-1, launched by PSLV-C19 from Sriharikota, was India’s first radar imaging satellite, successfully operating in a 536 km sun-synchronous orbit. Its C-band Synthetic Aperture Radar (SAR) enabled all-weather imaging for agriculture, forestry, and disaster management. Providing 0.25-meter resolution images over a 5-year lifespan, it supported flood mapping and national security, paving the way for RISAT-2B and enhancing India’s earth observation capabilities."
+  },
+  {
+    "name": "IRNSS-1A (NavIC)",
+    "date": "2013-07-01",
+    "description": "IRNSS-1A, launched by PSLV-C22 from Sriharikota, was the first satellite of India’s NavIC system, successfully contributing to regional navigation by 2018. In geosynchronous orbit, it provided 20-meter accuracy for Standard Positioning Service (SPS) and Restricted Service (RS). Despite a later atomic clock failure, NavIC enabled independent navigation for aviation, maritime, and military applications, reducing GPS reliance and enhancing India’s strategic autonomy."
+  },
+  {
+    "name": "Mangalyaan (MOM)",
+    "date": "2013-11-05",
+    "description": "Mangalyaan, launched by PSLV-C25 from Sriharikota, successfully entered Mars orbit on September 24, 2014, making India the first Asian nation to succeed on its first attempt. With five instruments, including a Methane Sensor for Mars (MSM) and Mars Color Camera (MCC), it studies Martian surface and atmosphere from a 365 km x 80,000 km orbit. Exceeding its 6-month lifespan, it supports climate studies and interplanetary mission planning."
+  },
+  {
+    "name": "INSAT-3DR",
+    "date": "2016-09-08",
+    "description": "INSAT-3DR, launched by GSLV-F05 from Sriharikota, is a successful meteorological satellite in geostationary orbit at 74°E, enhancing weather forecasting and disaster management. With a 6-channel imager, 19-channel sounder, and Data Relay Transponder, it monitors cyclones and monsoons. Operating for 7 years, it supports agriculture, aviation, and disaster warnings, strengthening India’s climate resilience through real-time weather data."
+  },
+  {
+    "name": "PSLV-C37",
+    "date": "2017-02-15",
+    "description": "PSLV-C37, launched by PSLV-XL from Sriharikota, successfully deployed 104 satellites, setting a world record. The primary payload, Cartosat-2D, with panchromatic and multispectral cameras, orbits at 505 km, supporting urban planning and disaster monitoring. Including 103 nano-satellites from India, USA, and others, the mission showcased ISRO’s precision in multi-satellite launches, boosting India’s commercial space sector and global reputation."
+  },
+  {
+    "name": "GSLV-MkIII-D1",
+    "date": "2017-06-05",
+    "description": "GSLV-MkIII-D1, launched from Sriharikota, was the first developmental flight of ISRO’s heaviest rocket, successfully placing the 3,136 kg GSAT-19 into geostationary transfer orbit. Its indigenous cryogenic engine (C25) supports 4-ton payloads, enabling Gaganyaan. The mission validated the rocket’s design, enhancing India’s heavy satellite launch capabilities and supporting broadband services via GSAT-19’s Ka/Ku-band transponders."
+  },
+  {
+    "name": "Cartosat-2F",
+    "date": "2018-01-12",
+    "description": "Cartosat-2F, launched by PSLV-C40 from Sriharikota, is a successful high-resolution earth observation satellite in a 505 km sun-synchronous orbit. Its panchromatic (0.6-meter resolution) and multispectral cameras support urban planning, infrastructure, and environmental monitoring. With a 5-year lifespan, it aids cartography, coastal land use, and disaster management, strengthening India’s geospatial capabilities for national development."
+  },
+  {
+    "name": "GSAT-11",
+    "date": "2018-12-05",
+    "description": "GSAT-11, India’s heaviest satellite at 5,854 kg, was successfully launched by Ariane-5 VA-246 from Kourou, French Guiana, boosting broadband under Digital India. In geostationary orbit at 74°E, its 40 Ku/Ka-band transponders enable 14 Gbps data rates, supporting rural internet, telemedicine, and e-governance. With a 15-year lifespan, it enhances India’s communication infrastructure and global satellite technology standing."
+  },
+  {
+    "name": "Microsat-R",
+    "date": "2019-01-24",
+    "description": "Microsat-R, launched by PSLV-C44 from Sriharikota, was a successful imaging satellite in a 274 km orbit, supporting military surveillance with a 0.6-meter resolution camera. It served as the target for India’s Mission Shakti ASAT test on March 27, 2019, demonstrating space defense capabilities. The mission’s success highlighted ISRO’s strategic asset development, though it raised space debris concerns, advancing India’s defense technology."
+  },
+  {
+    "name": "RISAT-2B",
+    "date": "2019-05-22",
+    "description": "RISAT-2B, launched by PSLV-C46 from Sriharikota, is a successful radar imaging satellite in a 557 km sun-synchronous orbit, using an X-band SAR for all-weather imaging. Its 0.5-meter resolution supports agriculture, forestry, flood mapping, and border surveillance. With a 5-year lifespan, it enhances disaster management and defense capabilities, providing critical data for crop monitoring and national security."
+  },
+  {
+    "name": "Chandrayaan-2",
+    "date": "2019-07-22",
+    "description": "Chandrayaan-2, launched by GSLV-MkIII-M1 from Sriharikota, partially failed when its Vikram lander crashed on September 6, 2019, due to a software glitch causing excessive velocity. The orbiter, with eight instruments like the Orbiter High-Resolution Camera, succeeded in a 100 km lunar orbit, providing data for over five years. Targeting the lunar south pole, it studied topography and water, supporting global lunar research and Gaganyaan."
+  },
+  {
+    "name": "Chandrayaan-3",
+    "date": "2023-07-14",
+    "description": "Chandrayaan-3, launched by LVM3-M4 from Sriharikota, successfully landed on the lunar south pole on August 23, 2023, making India the first nation to achieve this. With a propulsion module, Vikram lander, and Pragyan rover, its seven payloads, including ChaSTE and RAMBHA-LP, confirmed water ice. Its failure-based design addressed Chandrayaan-2’s issues, enabling a 14-day mission with a hop experiment, supporting future lunar missions like LUPEX."
+  },
+  {
+    "name": "Aditya-L1",
+    "date": "2023-09-02",
+    "description": "Aditya-L1, launched by PSLV-C57 from Sriharikota, is India’s first solar observatory, successfully positioned at Lagrange Point 1 on January 6, 2024. With seven payloads, including the Visible Emission Line Coronagraph (VELC) and Solar Ultraviolet Imaging Telescope (SUIT), it studies solar dynamics and space weather. Operating for 5 years, it protects satellite operations and contributes to global solar research with unprecedented data on solar flares."
+  },
+  {
+    "name": "XPoSat",
+    "date": "2024-01-01",
+    "description": "XPoSat, launched by PSLV-C58 from Sriharikota, is India’s first X-ray polarimetry satellite, successfully orbiting at 650 km to study black holes and neutron stars. Carrying POLIX and XSPECT payloads, it measures X-ray polarization, making India the second nation after NASA to achieve this. With a 5-year lifespan, it enhances India’s astronomical research, providing insights into high-energy cosmic events and advancing global astrophysics."
+  }
+]

@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ISRO Mission Chatbot</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+
+<body>
+    <div class="header">
+        <img src="{{ url_for('static', filename='isro_logo.png') }}" alt="ISRO Logo" class="logo">
+        <h1>ISRO Mission Chatbot</h1>
+    </div>
+    <form id="queryForm" action="/ask" method="POST">
+        <input type="text" name="query" placeholder="Ask about ISRO missions..." required>
+        <button type="submit">Ask</button>
+    </form>
+    <div id="loading" style="display: none;">Loading...</div>
+    <div id="response"></div>
+    <div class="graph-section">
+        <h2>Knowledge Graph Visualization</h2>
+        <img src="{{ url_for('static', filename='isro_knowledge_graph.png') }}" alt="Knowledge Graph"
+            style="max-width: 100%;">
+    </div>
+    <script>
+        document.getElementById('queryForm').addEventListener('submit', async (e) => {
+            e.preventDefault();
+            document.getElementById('loading').style.display = 'block';
+            document.getElementById('response').innerHTML = '';
+            const formData = new FormData(e.target);
+            const response = await fetch('/ask', {
+                method: 'POST',
+                body: formData
+            });
+            const text = await response.text();
+            document.getElementById('loading').style.display = 'none';
+            document.getElementById('response').innerHTML = text;
+        });
+    </script>
+</body>
+
+</html>
